@@ -1,0 +1,5 @@
+# Alves
+notas = [10,8,9,7]
+soma_das_notas = sum(notas)
+
+print(soma_das_notas) 
