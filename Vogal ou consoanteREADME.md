@@ -1,8 +1,0 @@
-# Alves
-L = input('Digite uma letra do alfabeto:')
-if L in ('a','e', 'i', 'o', 'u'):
-  print('%s é uma vogal.'%L)
-elif L == 'y':
-  print ('As vezes a y representa a vogal, algumas vezes a consoante.')
-else:
-  print('%s isso é consoante.'%L)
