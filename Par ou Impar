@@ -1,6 +1,0 @@
-# Alves
-N=int(input('Digite um valor:'))
-if (N%2)==0:
-  print('Par')
-else:
-  print('Impar')
