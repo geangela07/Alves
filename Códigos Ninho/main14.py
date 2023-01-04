@@ -1,0 +1,8 @@
+texto = input('Insira um texto:')
+
+contagem ={}
+textoMinusculo = texto.lower()
+
+for letra in texto.lower():
+    contagem[letra] = texto.lower().count(letra)
+    print(texto,contagem)
